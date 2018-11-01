@@ -5,7 +5,7 @@
 ### Example
 #### Input:
 ![pattern_0002_scan_rotate](https://github.com/Lothav/bubble_sheet_reader/blob/master/data/pattern_0002_scan_rotate.png)
-#### Output:
+#### Output (pt-BR):
 <pre>
 1: A
 2: Branco
